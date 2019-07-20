@@ -7,16 +7,14 @@ annotations:
     type: structural
     subtype: title
     titlelevel: 1
-    charrange:
-      start: 2
-      end: 5
+    startcc: 2
+    endcc: 5
   - id: t2-1
     type: structural
     subtype: title
     titlelevel: 2
-    charrange:
-      start: 10
-      end: 15
+    startcc: 10
+    endcc: 15
 log_entries:
   - id: lg1
     timestamp: 198739879
