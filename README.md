@@ -1,5 +1,5 @@
-# OpenPecha sample repository
+# OpenPoti sample repository
 
-This is a sample OpenPecha repository.
+This is a sample OpenPoti repository.
 
-[Edit here](https://github.com/OpenPecha/openpecha-template/blob/master/WO0P001.opf/base.txt)
+[Edit here](https://github.com/OpenPoti/openpoti-template/blob/master/WO0P001.opf/base.txt)
