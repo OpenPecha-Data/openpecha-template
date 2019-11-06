@@ -1,4 +1,4 @@
-# OpenPoti sample repository
+# OpenPecha sample repository
 
 This is a sample OpenPoti repository.
 
